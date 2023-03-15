@@ -47,3 +47,6 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay-saxena10&show_icons=true&locale=en" alt="tanmay-saxena10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay-saxena10&" alt="tanmay-saxena10" /></p>
+
+<p><img align="centre" img width="961" alt="image" src="https://user-images.githubusercontent.com/115370358/225462400-2f0d6e56-e2b8-4f4b-8115-a5dec201c78e.png"/></p>
+
