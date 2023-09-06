@@ -43,8 +43,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay-saxena10&show_icons=true&locale=en&layout=compact" alt="tanmay-saxena10" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay-saxena10&show_icons=true&locale=en" alt="tanmay-saxena10" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay-saxena10&" alt="tanmay-saxena10" /></p>
 
