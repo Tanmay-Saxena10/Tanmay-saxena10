@@ -12,7 +12,7 @@
  <picture> <img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = 450px></picture>
 
 
-- 🔭  I’m currently learning Node.js, SQL
+- 🔭  I’m currently learning React, SQL
 
 - 👯 I’m looking to collaborate on open source
 
